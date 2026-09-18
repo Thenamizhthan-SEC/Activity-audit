@@ -1,6 +1,6 @@
 # Auditing Cloud Activity Using AWS CloudTrail
-# Name: KISHORE J
-# Register no:212225240072
+# Name: THENAMIZHTHAN V
+# Register no:212225240175
 ## 📌 Objective
 To audit and monitor cloud activity in AWS using AWS CloudTrail by viewing and analyzing recorded AWS management events. The primary goal is to extract essential audit trail metadata including user identity, event name, event time, AWS service source, target region, read-only status, and operation outcome.
 
